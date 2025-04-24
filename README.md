@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
-**nurupoga/nurupoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nurupogaga/nurupogaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
